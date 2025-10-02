@@ -163,7 +163,7 @@ Vous avez des idées pour améliorer le gameplay, l'équilibrage ou l'expérienc
 
 ### Développement
 - 🔧 **Roadmap** : Consultez [Changelog.md](Changelog.md) pour suivre l'évolution du projet
-- 🤝 **Contribuer** : Voir [CONTRIBUTORS.md](CONTRIBUTORS)
+- 🤝 **Contribuer** : Voir [CONTRIBUTORS](Contributors)
 
 ---
 
